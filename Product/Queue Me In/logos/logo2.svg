@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="442px" height="423px" viewBox="0 0 442 423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>QmeLogo Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="207.5" cy="207.5" r="207.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-88.000000, -23.000000)">
+            <g id="QmeLogo-Copy" transform="translate(88.000000, 23.000000)">
+                <circle id="Oval-10" fill="#668AE9" cx="405.5" cy="386.5" r="36.5"></circle>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Oval-11"></g>
+                <rect id="Rectangle-43" fill-opacity="0.678725091" fill="#6DB9EA" mask="url(#mask-2)" x="-61" y="0" width="473" height="85" rx="3"></rect>
+                <rect id="Rectangle-43-Copy" fill="#6BACEA" mask="url(#mask-2)" x="-42" y="165" width="492" height="85" rx="3"></rect>
+                <rect id="Rectangle-43-Copy-4" fill="#6DB9EA" mask="url(#mask-2)" x="-31" y="85" width="484" height="85" rx="3"></rect>
+                <rect id="Rectangle-43-Copy-3" fill="#689BE9" mask="url(#mask-2)" x="-31" y="250" width="503" height="85" rx="3"></rect>
+                <rect id="Rectangle-43-Copy-2" fill="#6791E9" mask="url(#mask-2)" x="-12" y="335" width="461" height="85" rx="3"></rect>
+                <circle id="Oval-10-Copy" fill="#FFFFFF" mask="url(#mask-2)" cx="309.5" cy="309.5" r="36.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
